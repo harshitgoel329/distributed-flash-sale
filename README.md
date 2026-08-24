@@ -204,7 +204,3 @@ docker exec -it flashsale_postgres psql -U postgres -d flashsale_db -c "SELECT s
 ## 📜 License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-
-```
