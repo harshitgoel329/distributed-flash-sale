@@ -1,4 +1,4 @@
-```markdown
+
 # ⚡ Distributed Flash-Sale Engine
 > High-throughput, event-driven inventory reservation engine built to handle extreme concurrency spikes with zero overselling, sub-5ms atomic stock decrements, and decoupled asynchronous persistence.
 
